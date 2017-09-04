@@ -187,6 +187,9 @@
 		98A5822A1F423D7400E04D90 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					lblUser,
+				);
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Guilherme Souza";
